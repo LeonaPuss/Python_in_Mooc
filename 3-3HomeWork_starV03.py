@@ -22,3 +22,5 @@ num=int(input())
 for i in range(1,num+1,2):
     print("{0:^{1}}".format("*"*i,str(num)))
 #简洁之道：重点理解print，formart用法
+
+'''Forgest
